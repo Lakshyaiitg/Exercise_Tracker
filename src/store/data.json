@@ -2,21 +2,15 @@
   "exercises": [
     {
       "title": "pushups",
-      "details": "pushups are beneficial ;lmekefk mm klewmfmkmvk mfeklmgkrmmrklv",
+      "details": "pushups are beneficial for upper body strength",
       "complete": true,
       "id": 119
     },
     {
-      "title": "lorem ipsum",
-      "details": "lorem ipsum",
+      "title": "Plank",
+      "details": "Planks are beneficial for abdominal muscles",
       "complete": false,
       "id": 9301
-    },
-    {
-      "title": "n",
-      "details": "nn",
-      "complete": false,
-      "id": 9545
     }
   ]
 }
