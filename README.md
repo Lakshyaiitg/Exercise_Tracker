@@ -1,4 +1,5 @@
 Project name - Exercise Tracker
+
 A Web App made using React.JS and React Router to plan your workout.
 It provides features to create, update and delete an exercise.
 Ability to toggle an exercise between completed/pending and view them on a single page.
