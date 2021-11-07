@@ -11,4 +11,5 @@ Ability to toggle an exercise between completed/pending and view them on a singl
 
 
 run npm install
+
 run npm start
