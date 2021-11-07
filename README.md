@@ -8,3 +8,7 @@ Ability to toggle an exercise between completed/pending and view them on a singl
     npm install json-server ~g
 2) Start the json server - 
     json-server --watch src/store/data.json --port=3111
+
+
+run npm install
+run npm start
